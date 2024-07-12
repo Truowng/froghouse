@@ -420,6 +420,8 @@ img {
     display: block;
     color: $white;
     transition: all ease 0.3s;
+    outline: none;
+    border: none;
     &:hover {
       background-color: #007400;
     }

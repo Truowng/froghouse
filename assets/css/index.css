@@ -458,6 +458,8 @@ img {
   display: block;
   color: #fff;
   transition: all ease 0.3s;
+  outline: none;
+  border: none;
 }
 .friend .invite-btn:hover {
   background-color: #007400;

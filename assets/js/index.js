@@ -67,3 +67,10 @@ if (submitBtn) {
       .catch((error) => console.error("Error!", error.message));
   });
 }
+
+const copyText = () => {
+  navigator.clipboard.writeText(
+    "https://t.me/+dqoMPV1lROQzYTFl. Frogs, lets see who is OG 🐸"
+  );
+  alert("Your invited link has been copied");
+};
