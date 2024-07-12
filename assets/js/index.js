@@ -1,8 +1,8 @@
 const WALLETS = [
-  "EQDNb…uoqym",
-  "EQDrI…Uve2s",
-  "EQDVz…og_XR",
-  "EQDYT…5rnry",
+  "UQAQH…UHLzY",
+  "UQAum…8kQrO",
+  "UQB3l…JwRV8",
+  "UQBBF…4nmo2",
   "UQA_A…kB8ff",
   "UQA1v…rVGQY",
   "UQA4j…JZ1-2",

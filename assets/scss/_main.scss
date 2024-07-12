@@ -504,3 +504,16 @@ img {
     max-width: 100%;
   }
 }
+
+@include mobile {
+  .quick-button {
+    width: 100%;
+    border-radius: 0;
+    .quick-btn {
+      flex: 1;
+    }
+  }
+  .leaderboard {
+    margin: 100px auto;
+  }
+}

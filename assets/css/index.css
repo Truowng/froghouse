@@ -536,3 +536,15 @@ img {
     max-width: 100%;
   }
 }
+@media only screen and (max-width: 480px) {
+  .quick-button {
+    width: 100%;
+    border-radius: 0;
+  }
+  .quick-button .quick-btn {
+    flex: 1;
+  }
+  .leaderboard {
+    margin: 100px auto;
+  }
+}
